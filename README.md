@@ -2,8 +2,8 @@
 
 # Team Members
 
-Aniket Thomas - 22M2162
-Uddeshya Singh - 22M2152
-Mohamad Hassan N C - 22M2155
-Sachin Giroh - 22m2159
-Ravi Vedic - 22m2157
+Aniket Thomas - 22M2162 \
+Uddeshya Singh - 22M2152 \
+Mohamad Hassan N C - 22M2155 \
+Sachin Giroh - 22m2159 \
+Ravi Vedic - 22m2157 \
