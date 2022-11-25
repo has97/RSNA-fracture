@@ -1,4 +1,4 @@
-# This is a work done as a part of CS 725 Foundations of Machine Learning Final Project
+# CS 725 Foundations of Machine Learning Final Project
 
 # Team Members
 
